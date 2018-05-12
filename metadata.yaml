@@ -1,0 +1,29 @@
+_repo: Pepper--amp--Salt--13-or-Seasoning-for-Young-Folk_15664
+_version: 0.1.0
+alternative_title: Pepper and Salt
+covers:
+- cover_type: archival
+  image_path: 15664-h/images/coverfull.png
+creator:
+  author:
+    agent_name: Pyle, Howard
+    birthdate: 1853
+    deathdate: 1911
+    gutenberg_agent_id: '491'
+    url: http://www.gutenberg.org/2009/agents/491
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
+description: Illustrated by the author.
+gutenberg_issued: '2005-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15664'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- !lcsh 'Poetry'
+title: Pepper & Salt; or, Seasoning for Young Folk
+url: http://www.gutenberg.org/ebooks/15664
